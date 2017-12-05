@@ -13,7 +13,7 @@ If you greeting the Slackbot with any of these words: hi, hello, howdy, hola, al
 
 If you ask the Slackbot the following "Tell me the quote of the day", it will respond with a random quote pulled from an array. 
 
-Lastly, if you ask the Slackbot "Do we have class today @orangebot", it will check whether it is Tuesday or Thursday and if it is, it will respond wiyth "It's ________ , so yes we do have class!" and if it's not Tuesday or Thursday, it will respond with which day it is and saying "No we don't have class because it's ________!.
+Lastly, if you ask the Slackbot "@orangebot Do we have class today", it will check whether it is Tuesday or Thursday and if it is, it will respond wiyth "It's ________ , so yes we do have class!" and if it's not Tuesday or Thursday, it will respond with which day it is and saying "No we don't have class because it's ________!.
 
 ### Running TTbot Locally
 
